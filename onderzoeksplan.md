@@ -15,3 +15,6 @@ Hoe kan het gebruik van New Relic een applicatie verbeteren
 
 ## Plan
 
+- Globaal beeld New Relic door gebruik van site en blogposts.
+- Dieper beeld ontwikkelen door doornemen documentatie.
+- Monitoren simpele applicatie voor demonstratie.

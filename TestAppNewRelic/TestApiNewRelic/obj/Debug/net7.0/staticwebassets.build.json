@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+e/tGG5JyGS63fHh1exp2v0Wyj+3dUTJHUZEoZBM3VA=",
+  "Source": "TestApiNewRelic",
+  "BasePath": "_content/TestApiNewRelic",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
